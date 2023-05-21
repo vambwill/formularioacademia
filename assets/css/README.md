@@ -12,3 +12,5 @@ agora restore
 comando git pull.
 
 testando.
+
+verificação do que vem.
