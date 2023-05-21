@@ -8,3 +8,5 @@ Testando mais uma vez.
 Agora git log.
 
 agora restore
+
+comando git pull.
