@@ -4,3 +4,5 @@ Vamos lá!
 
 testando.
 Testando mais uma vez.
+
+Agora git log.
