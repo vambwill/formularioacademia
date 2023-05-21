@@ -2,4 +2,5 @@ Usando esse repertório para treinar css, html e github.
 
 Vamos lá!
 
-testando
+testando.
+Testando mais uma vez.
